@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+# THis is a challenge foe icodethis where we need to create a food cart
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
